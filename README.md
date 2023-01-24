@@ -1,7 +1,3 @@
-# Tauri + Vanilla
+# ROR2 Modding GUI
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+The ROR2 Modding GUI is a Tauri-based program that acts as a front end for the Command Line r2mod tool for Linux.
