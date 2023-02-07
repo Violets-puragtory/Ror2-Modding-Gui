@@ -28,8 +28,9 @@ cargo tauri build
 
 # To-Do
 
- - [x] Allow launching ROR2 with mods
- - [x] Allow launching ROR2 without mods
- - [ ] Implement mod search
- - [ ] Implement GTK theme support
- - [ ] Implement installation of mods
+- [x] Allow launching ROR2 with mods
+- [x] Allow launching ROR2 without mods
+- [ ] Implement mod search
+- [ ] Implement GTK theme support
+- [ ] Implement installation of mods
+- [ ] eat a cookie
